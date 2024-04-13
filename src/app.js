@@ -1,2 +1,5 @@
-const name = 'world';
-console.log(`Hello ${name}`);
+const darkModeButton = document.getElementById('temaOscuro');
+const body = document.body;
+darkModeButton.addEventListener('click', () => {
+    body.classList.toggle('modo-oscuro');
+})
