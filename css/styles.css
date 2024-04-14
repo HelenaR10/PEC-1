@@ -50,7 +50,7 @@ button {
   font-weight: 700;
 }
 button a {
-  color: var(--color-principal)
+  color: var(--color-enlaces)
 }
 button:hover {
   background-color: var(--color-secundario);

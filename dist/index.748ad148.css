@@ -57,7 +57,7 @@ button {
 }
 
 button a {
-  color: var(--color-principal);
+  color: var(--color-enlaces);
 }
 
 button:hover {
